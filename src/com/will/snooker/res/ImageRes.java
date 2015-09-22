@@ -74,7 +74,7 @@ public class ImageRes {
                     new Point(cursor_x, cursor_y), GameConfig.CROSS_CURSOR_NAME);
            
             cheerYouImage = ImageIO.read(new File(
-                    "res\\drawable\\cheeryou_logo.png"));
+                    "res\\drawable\\welcome.png"));
             desktopImage = ImageIO.read(new File("res\\drawable\\desktop.png"));
             startBtnIamge = new ImageIcon(
                     "res\\drawable\\string\\start_btn.png");
